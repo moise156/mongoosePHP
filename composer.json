@@ -1,0 +1,6 @@
+{
+    "name": "moisensonsa/mongoose-php",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}
